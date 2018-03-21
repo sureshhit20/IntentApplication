@@ -33,7 +33,7 @@ public class SendActivity extends AppCompatActivity {
         intent.putExtra(Intent.EXTRA_TEXT, message_text);
         startActivity(intent);
 
-    //* test GIT
+    //* test GIT2
     }
 
 }
